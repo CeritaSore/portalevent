@@ -1,1 +1,3 @@
-<h2>Hai. Ini adalah portal event dimana sistem yang menghubungkan antara member dengan EO(Event Organizer).</h2>
+<h2>Portal Event</h2>
+<p>ini adalah sebuah sistem yang menghubungkan antara partisipan dengan EO atau penyelenggara acara.</p>
+<p>Dengan adanya ini diharapkan dapat mempermudah penyelenggaraan acara.</p>
